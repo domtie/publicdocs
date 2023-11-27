@@ -40,5 +40,5 @@
     - Bildschirmsperren sind sehr einfach umgehbar, helfen aber ein bisschen.
 - 04 Verschlüsseln Sie sensitive Inhalte
     - Meine Festplatte ist verschlüsselt.
-- 04 Sichern Sie Informationen und löschen Sie Daten vollständig.
+- 05 Sichern Sie Informationen und löschen Sie Daten vollständig.
     - Meine gelöschten Daten werden nicht sofort überschrieben, daran muss ich noch arbeiten und eine gute Software dafür finden.
