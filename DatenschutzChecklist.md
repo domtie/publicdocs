@@ -27,6 +27,18 @@
 - 10 Benutzen Sie fürs Login einen zweiten Faktor
     - Ich verwende überall 2fa wo möglich, bei wichtigen Logins sogar Yubikey Hardware keys. 
 
-
-
-
+## PC-Sicherheit erhöhen – in fünf Schritten
+- 01 Persönliche Informationen schützen
+    - Ausserhalb vom Büro verwende ich einen Browser der so wenig Tracking betreibt wie möglich.
+    - Cookies werden oft gelöscht und cross-site-tracking wird versucht zu vermeiden.
+- 02 Angriffe abwehren
+    - Mac geräte sind von alleine schon relativ gut geschützt, Programme die nicht von vertrauten Sourcen kommen werden nach Viren gescannt. 
+    - Ich verwende VMs für Software die auf Grund ihrer grösse nicht Scannen kann. 
+- 03 Zugriffe Unberechtigter verhindern
+    - Ich verwende viele und gute Passwörter die in einem geschützten Passwortmanager gespeichert sind. 
+    - Ich verwende keine öffentlichen WLANs, stattdessen nur meinen Hotspot. 
+    - Bildschirmsperren sind sehr einfach umgehbar, helfen aber ein bisschen.
+- 04 Verschlüsseln Sie sensitive Inhalte
+    - Meine Festplatte ist verschlüsselt.
+- 04 Sichern Sie Informationen und löschen Sie Daten vollständig.
+    - Meine gelöschten Daten werden nicht sofort überschrieben, daran muss ich noch arbeiten und eine gute Software dafür finden.
