@@ -38,10 +38,10 @@
 
 - Wie erstellen Sie ein Backup von Ihrer Passwortdatenbank?
 
----
-
 - Wenn Sie einen Cloud-Dienst verwenden: Was tun Sie, wenn Sie keinen Zugriff auf Ihren Account mehr haben?  
   -> Das wäre sehr mühsam… Ich vertraue jedoch meinem Anbieter. Es wäre eventuell schlau, periodisch die Passwörter als Plaintext zu exportieren und an einem sicheren Ort aufzubewahren.
+
+---
 
 
 | Service       | Funktion                                                                    | Betroffene Daten                      | Backup                            | Wiederherstellung                                                                             |
