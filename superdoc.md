@@ -54,7 +54,6 @@ Cookie-Banner bieten bei Webseitenbesuchen in der Regel folgende Optionen:
 # Datenschutz Checklist
 ##### Dominique Kaluscha
 
-
 ## Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
 ## Checkliste Smartphone-Sicherheit erhöhen
